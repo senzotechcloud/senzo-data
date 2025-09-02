@@ -56,5 +56,5 @@ Hi, I’m **Senzo Dlakude**, a data analyst passionate about transforming data i
 
 ---
 
-> **Tip:** Click on each project to explore code, datasets, and dashboards.
+
 
