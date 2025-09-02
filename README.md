@@ -50,8 +50,8 @@ Hi, I’m **Senzo Dlakude**, a data analyst passionate about transforming data i
 ---
 
 ## 🔹 Contact
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)  
-- Email: youremail@example.com  
+- LinkedIn: https://www.linkedin.com/in/senzo-dlakude-337582276
+- Email: semzomtungwa@yahoo.com  
 - Portfolio: [Notion Portfolio Link](https://www.notion.so/your-portfolio-link)  
 
 ---
